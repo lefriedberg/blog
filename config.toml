@@ -158,7 +158,9 @@ include_content = true
 [extra]
 
 footer_links = [
-    {url = "/about", name = "About"}
+    {url = "/", name = "Home"},
+    {url = "/about", name = "About"},
+    {url = "/blogroll", name = "Blogroll"}
 ]
 
 author = "Rowan McDonald"

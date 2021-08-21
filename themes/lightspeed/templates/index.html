@@ -81,7 +81,7 @@
           {% for item in config.extra.footer_links %}
             <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) | safe }}">{{ item.name }}</a>
             {% if loop.last %}{% else %}
-              <span>&middot;</span>
+              <span> ✨ </span>
             {% endif %}
           {% endfor %}
         </nav>

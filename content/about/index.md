@@ -1,11 +1,13 @@
 +++
 title = "About"
 path = "about"
-date = 2018-02-03
+date = 2021-08-21
 [extra]
 hidden = true
 show_date = false
 +++
+
+![me](/images/profile.jpeg)
 
 Building new things at HouseAccount. Previously at Slice and Betterment.
 
