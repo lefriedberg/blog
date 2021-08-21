@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Rowan&#x27;s Blog</title>
+	<subtitle>Personal engineering blog by Rowan McDonald</subtitle>
+	<link href="https://rowanmcdonald.com/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://rowanmcdonald.com"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-06-19T00:00:00+00:00</updated>
+	<id>https://rowanmcdonald.com/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Testing in Production</title>
+		<published>2020-06-19T00:00:00+00:00</published>
+		<updated>2020-06-19T00:00:00+00:00</updated>
+		<link href="https://rowanmcdonald.com/testing-in-production/" type="text/html"/>
+		<id>https://rowanmcdonald.com/testing-in-production/</id>
+		<content type="html">&lt;p&gt;Test of new site.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;ruby&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-ruby &quot;&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;def &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;hello_world
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;end
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>About</title>
+		<published>2018-02-03T00:00:00+00:00</published>
+		<updated>2018-02-03T00:00:00+00:00</updated>
+		<link href="https://rowanmcdonald.com/about/" type="text/html"/>
+		<id>https://rowanmcdonald.com/about/</id>
+		<content type="html">&lt;p&gt;Engineering working on new things over at HouseAccount.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;RowanMcDonald&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;rowan-mcdonald&quot;&gt;LinkedIn&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitter.com&#x2F;rowangoldenarch&quot;&gt;Twitter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:rowjaim@gmail.com&quot;&gt;rowjaim@gmail.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>

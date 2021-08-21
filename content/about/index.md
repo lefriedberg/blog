@@ -7,9 +7,8 @@ hidden = true
 show_date = false
 +++
 
-Engineering working on new things over at HouseAccount.
+Building new things at HouseAccount. Previously at Slice and Betterment.
 
 * [GitHub](https://github.com/RowanMcDonald)
 * [LinkedIn](https://www.linkedin.com/in/rowan-mcdonald)
 * [Twitter](https://www.twitter.com/rowangoldenarch)
-* [rowjaim@gmail.com](mailto:rowjaim@gmail.com)

@@ -9,6 +9,14 @@ show_date = true
 Test of new site.
 
 ```ruby
-def hello_world
+class Testing::File
+  class << self
+    def temp(contents, extension: nil)
+      Tempfile.new(["temp_file", extension]).tap do |temp|
+        temp.write(contents)
+        temp.rewind
+      end
+    end
+  end
 end
 ```
