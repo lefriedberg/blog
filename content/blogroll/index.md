@@ -17,6 +17,7 @@ I always appreciate it when people link out to blogs they read so here's my list
 * [Schneems](https://schneems.com/)
 * [Penelope.zone](https://penelope.zone/)
 * [Procedural Generation](https://procedural-generation.tumblr.com/)
+* [Dan Luu](https://danluu.com/)
 
 #### Corporate blogs:
 * [Betterment](https://www.betterment.com/category/engineering/)
