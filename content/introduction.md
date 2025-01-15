@@ -1,14 +1,14 @@
 +++
 title = "Introduction"
-date = 2021-08-20
+date = 2025-01-15
 draft = false
 [extra]
 show_date = true
 +++
 
-Hi! I'm a software engineer living in Brooklyn. In April, I left my job at Betterment to help build HouseAccount.  Today, I decided to make a blog today to encourage myself to write more.
+My name is Lily, and I'm a graduate student at Politecnico di Milano. I forked this blog from my friend Rowan, in order to graduate from being a notes app philosopher.
 
-I built this site using:
+Rowan built this site using:
 * [Zola](https://www.getzola.org/)
 * [Cloudflare Pages](https://pages.cloudflare.com/)
 * [Lightspeed](https://www.getzola.org/themes/lightspeed/)

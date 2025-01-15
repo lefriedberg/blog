@@ -2,8 +2,8 @@
 base_url = "https://friedberg.nyc"
 
 # The site title and description; used in feeds by default.
-title = "Rowan's Blog"
-description = "Personal engineering blog by Rowan McDonald"
+title = "LEF's Blog"
+description = "Personal blog by me, LEF"
 
 # The default language; used in feeds.
 default_language = "en"

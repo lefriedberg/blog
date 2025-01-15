@@ -1,29 +1,26 @@
 +++
-title = "Blogroll"
+title = "Websites"
 path = "blogroll"
-date = 2021-08-21
+date = 2025-01-15
 [extra]
 hidden = true
 show_date = false
 +++
 
-I always appreciate it when people link out to blogs they read so here's my list. The following is not comprehensive, but it's a start:
+Platforms are from the devil, probably, which is why we have this dingy site. Here are some other websites that are less dingy:
 
 #### Personal blogs:
-* [Dan Luu](https://danluu.com/)
-* [Jessitron](https://jessitron.com/)
-* [Julia Evans](https://jvns.ca/)
-* [Kir Shatrov](https://kirshatrov.com/)
-* [Neugierig](http://neugierig.org/)
-* [Overreacted](https://overreacted.io/)
-* [Penelope.zone](https://penelope.zone/)
-* [Procedural Generation](https://procedural-generation.tumblr.com/)
-* [Schneems](https://schneems.com/)
-* [The Pug Automatic](https://thepugautomatic.com/)
-* [The Speed Shop](https://www.speedshop.co)
+* [Rowan](https://rowanmcdonald.com)
+* [Radon](https://intuitiveexplanations.com/)
+* [Daniel](https://thejester.substack.com/)
 
-#### Corporate blogs:
-* [Betterment](https://www.betterment.com/category/engineering/)
-* [Shopify](https://shopify.engineering/)
-* [Slack](https://slack.engineering/)
-* [Thoughtbot](https://thoughtbot.com/blog)
+#### Googles:
+* [Duck Duck Go](https://duckduckgo.com)
+* [Proton Mail](https://protonmail.com)
+* [Linux](https://www.linux.org/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/)
+* [Merlin](https://merlin.allaboutbirds.org/) 
+* [Wikipedia](https://www.wikipedia.org/)
+* [Etymonline](https://www.etymonline.com/)
+* [Brittanica](https://novelnewyork.org/)
+
