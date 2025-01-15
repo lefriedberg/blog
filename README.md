@@ -1,3 +1,3 @@
 # Blog
 
-Hosted at rowanmcdonald.com
+Hosted at friedberg.nyc
