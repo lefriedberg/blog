@@ -7,6 +7,6 @@ hidden = true
 show_date = false
 +++
 
-![me](/images/profile.jpeg)
+![me](/images/me.jpeg)
 
-My name is Lily. 
+My name is Lily. I studied math at Harvey Mudd College and am now studying electrical engineering at Politecnico di Milano.
