@@ -24,27 +24,17 @@ Fukuoka begins by introducing the four principles of natural farming, namely:
 3. NO WEEDING BY TILLAGE OR HERBICIDES.
 4. NO DEPENDENCE ON CHEMICALS.
 
+Principle 4 is a clear rebuke to so-called chemical (or scientific) farming, but principles 1-3 also constitute a deviation from the traditional farming techniques of Japan. 
+These principles, however, still constitute a rejection of modernity and, to some degree, a return to history.
+Fukuoka's most famous innovation, the use of the "seed bomb" for broadcasting, was also used by several ancient cultures. More proximately, Fukuoka points out that the deep tilling techniques used in traditional farms were actually imported from Europeans in the 16th or 17th century, suggesting that Japan (and many other regions) may have once had a farming tradition much more similar to natural farming.
+
+We then get into a pretty weedy (from my citified perspective) description of the annual cycle of production on his farm in Ehime prefecture in southern Japan. Having a passing familiarity with some of the basic concepts of regenerative and no-till farming, there are plenty of familiar aspects to the method: the use of white clover as a cover crop to reduce the need for weeding and fertilizer, the rotation of multiple crops (rice and winter grains such as barley) throughout the year, and the titular use of straw as "green manure."
+
+The positive externalities of this approach are obvious and extremely compelling. Chemicals like fertilizer and pesticides running off from farms can extensively damage not only the fauna on the farm, but also entire surrounding ecosystems. They also create dependence on GMOs, leading to well-known monoculture risks and dependence on evil megacorporations. However, the argument _for_ scientific agriculture has always been an argument about yield. As the earth's population, the argument goes, exponentially increases, crop yields must increase in kind, and chemical agriculture is the only way for science to make progress in this regard. In the abstract, I have always found this argument fairly convincing, but when you look at the details, it starts to seem slightly spurious. [Organic farming](https://www.sciencedirect.com/science/article/abs/pii/S0308521X1100182X) has yields on average 20% lower than traditional methods (with wide variation depending on the crop and environment). While this is gap is significant, it hardly seems like a complete answer to feeding a human population that has increased fourfold in the last hundred years.
+
+Anecdotally, Fukuoka also claims to have among the highest yields in Ehime prefecture, and points to the gradual nature of soil improvement as evidence that organic/natural agriculture's yield gap can be closed over time, as soil quality improves and natural farming strategies specific to a local environment are developed and refined. Indeed, critics of individual natural farming practices such as cover cropping 
 
 
-We then get into a pretty weedy (from my citified perspective) description of the annual cycle of production on his farm, in Ehime prefecture in southern Japan. Having a passing familiarity with some of the basic concepts of regenerative and no-till farming, there are plenty of familiar aspects to the method. 
-
-
-this is similar to modern concepts in regenerative, no-till, and organic pharmacy
-
-scientifically those applications are not demonstrated in the text, but lots of people have done other work on this elsewhere. address the yield thing here
-
-this philosophy is a response to "scientific" or "chemical" agriculture (which is very obviously part of a problem)
-
-No-till farming seems to be increasingly widely
-accepted, and 
-
-polyculture, permaculture, regenerative farming
-
-
-furthermore, I did not independently verify 
-his claims about his actual crop yields, although
-I also didn't find any allegations that those
-claims are fraudulent
 
 
 sticking point (to me): the malthusian argument basically.
@@ -69,7 +59,7 @@ note about chemicals (aka what i would call
 From the introduction by Wendell Berry:
 
 > What he fears in modern applied science is
-    its disdain for mystery, its willingness to reduce life ot what is known about it and _to act on the assumption that what it does not know can be safely ignored._
+    its disdain for mystery, its willingness to reduce life to what is known about it and _to act on the assumption that what it does not know can be safely ignored._
 
 temptation of scientists is to do a no true scotsman about this. ethnobotany example.
 
